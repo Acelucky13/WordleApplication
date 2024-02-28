@@ -1,4 +1,4 @@
-# Project 2 - *WordleApp*
+# Project  - *WordleApp*
 
 Submitted by: **Miguel Gomez**
 
